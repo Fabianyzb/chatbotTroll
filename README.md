@@ -5,6 +5,7 @@ Código que simula escribir el contenido de un archivo de texto en cualquier ven
 Python: Lenguaje de programación utilizado para escribir el script.
 Selenium: Biblioteca de automatización de navegadores web.
 ChromeDriver: Controlador específico para Google Chrome.
+keyboard: para detener el proceso.
 
 ## Demo
 
@@ -18,6 +19,7 @@ Para utilizar este código, asegúrate de tener instalado Python en tu sistema. 
 2. Instala las dependencias necesarias ejecutando los siguientes comandos:
 pip install pyautogui
 pip install pywhatkit
+pip install keyboard
 
 ## Uso
 
