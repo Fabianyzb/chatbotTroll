@@ -19,5 +19,5 @@ pip install keyboard
 
 ## Uso
 
-Simplemente ejecuta el script y sigue las instrucciones que se te proporcionen. Asegúrate de tener una ventana de WhatsApp abierta y lista para recibir el mensaje. El script simulará la escritura del contenido del archivo de texto en el campo de entrada de texto activo en la ventana de WhatsApp.
+Simplemente ejecuta el script y sigue las instrucciones que se te proporcionen. Asegúrate de tener una ventana de WhatsApp abierta y lista para recibir el mensaje. El script simulará la escritura del contenido del archivo de texto en el campo de entrada de texto activo en la ventana de WhatsApp. Para detener el spam hay que apretar "q" en cualquier parte menos el textbox
 
