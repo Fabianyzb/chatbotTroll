@@ -7,10 +7,6 @@ Selenium: Biblioteca de automatización de navegadores web.
 ChromeDriver: Controlador específico para Google Chrome.
 keyboard: para detener el proceso.
 
-## Demo
-
-Puedes ver una demostración en línea del proyecto [aquí](#).
-
 ## Instalación
 Para utilizar este código, asegúrate de tener instalado Python en tu sistema. Luego, sigue estos pasos:
 
